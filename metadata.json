@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "AI voice assistant with iron-man inspired UI, offline speech recognition, Kokoro TTS, Claude & OpenAI integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
